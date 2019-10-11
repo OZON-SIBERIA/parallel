@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\medve\source\repos\parallel\OpenMP_Project\Main.cpp(18,9): warning C4068: неизвестная директива pragma
+C:\Users\medve\source\repos\parallel\OpenMP_Project\Main.cpp(25,9): warning C4068: неизвестная директива pragma
+C:\Users\medve\source\repos\parallel\OpenMP_Project\Main.cpp(60,14): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+  OpenMP_Project.vcxproj -> C:\Users\medve\source\repos\parallel\x64\Debug\OpenMP_Project.exe
